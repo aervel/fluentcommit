@@ -1,12 +1,21 @@
 # Fluent Commit
 
-O **Fluent Commit** é uma especificação que descreve como as mensagens de commit devem ser escritas de forma
-padronizada, fluente e fácil de entender. A padronização de commits melhora a legibilidade, a rastreabilidade e a
-colaboração em projetos, especialmente em equipes grandes ou distribuídas.
+**Fluent Commit** is a specification that describes how commit messages should be written in a standardized, fluent, and
+easy-to-understand manner. Commit standardization improves readability, traceability, and collaboration in projects,
+especially in large or distributed teams.
 
-`Fluidez`
-`Transparência`
-`Colaboração`
-`Simplicidade`
-`Automação`
-`Documentação`
+`Fluency` `Transparency` `Collaboration`
+
+## Contributing
+
+To start contributing, identify an aspect you would like to improve. Then, start
+a [discussion](https://github.com/aervel/fluent.commit/discussions/new/choose) in Discussions or by opening
+an [issue](https://github.com/aervel/fluent.commit/issues/new/choose).
+
+### Start Your Challenge
+
+```shell
+git clone https://github.com/aervel/fluent.commit
+```
+
+© 2024 Aervel. All rights reserved.
