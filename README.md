@@ -20,6 +20,6 @@ To start contributing, identify an aspect you would like to improve. Then,
 git clone https://github.com/aervel/fluent.commit
 ```
 
-[Learn More](CONTRIBUTING)
+[Learn More](CONTRIBUTING.md)
 
 © 2024 Aervel. All rights reserved.
