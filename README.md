@@ -12,6 +12,12 @@
 
 ## Getting Started
 
+To start contributing, identify an aspect you would like to improve. Then,
+[start a discussion](https://github.com/aervel/fluent.commit/discussions/new/choose)
+![GitHub Discussion Icon](docs/discussions.svg) or 
+[open an issue](https://github.com/aervel/fluent.commit/issues/new/choose)
+![GitHub Issues Icon](docs/issues.svg) and share your ideas.
+=======
 To start contributing, follow these steps:
 
 1. Identify an aspect you would like to improve.
@@ -21,6 +27,10 @@ To start contributing, follow these steps:
 git clone https://github.com/aervel/fluent.commit
 ```
 
+[Learn More](CONTRIBUTING.md)
+
+© 2024 Aervel. All rights reserved.
+=======
 
 #
 © 2024 Aervel. All rights reserved.
